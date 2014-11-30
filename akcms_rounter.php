@@ -1,0 +1,1 @@
+<?php include 'akcms_config.php';$file = 'rounter';include $system_root.'/fore.php';?>

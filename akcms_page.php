@@ -1,0 +1,1 @@
+<?php include 'akcms_config.php';$file = 'page';include $system_root.'/fore.php';?>
